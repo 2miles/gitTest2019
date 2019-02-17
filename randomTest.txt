@@ -1,0 +1,2 @@
+This is just a random text file I created in notepad++.
+IM Trying to trck this file with git and have it put online o githiub
